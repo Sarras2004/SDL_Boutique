@@ -1,5 +1,4 @@
-# SDL_Boutique
-## 🛒 SDL_Boutique - Interface de Vente Interactive en 2D
+# 🛒 SDL_Boutique - Interface de Vente Interactive en 2D
 
 Ce projet a été réalisé dans le cadre du cursus de **première année du cycle ingénieur**. L'objectif était de mettre en pratique les concepts fondamentaux du **langage C** et la gestion d'interfaces graphiques.
 
